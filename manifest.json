@@ -1,7 +1,6 @@
 {
- "theme_color": "#FFFFFF",
  "name": "Alianças Fênix - Osasco - Tour Virtual 360°",
- "description": "Super Shopping Osasco - Av. dos Autonomistas, 1828 - Loja D01 - Vila Yara, Osasco - SP",
+ "background_color": "#FFFFFF",
  "display": "fullscreen",
  "start_url": "index.htm",
  "icons": [
@@ -41,5 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF"
+ "description": "Super Shopping Osasco - Av. dos Autonomistas, 1828 - Loja D01 - Vila Yara, Osasco - SP",
+ "theme_color": "#FFFFFF"
 }
